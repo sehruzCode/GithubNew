@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cont{
+    width: 500px;
+    min-height: 200px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: yellow !important;
+}
